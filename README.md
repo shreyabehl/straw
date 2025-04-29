@@ -1,2 +1,2 @@
-# straw
-hello
+#hello, this is my practice repo for scm
+
