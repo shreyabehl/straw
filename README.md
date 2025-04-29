@@ -1,2 +1,2 @@
-#hello, this is my practice repo for scm
+#hello, this is my practice repo for scm.
 
